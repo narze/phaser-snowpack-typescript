@@ -2,6 +2,6 @@
 
 # Phaser 3 + Snowpack Template (TypeScript)
 
-> Modern and fast build tool for making games with Phaser 3 and ~~modern JavaScript~~ TypeScript
+> Modern and fast build tool for making games with Phaser 3 and ~~modern JavaScript~~ TypeScript, forked from [ourcade/phaser3-snowpack-template](https://github.com/ourcade/phaser3-snowpack-template)
 
 ![License](https://img.shields.io/badge/license-MIT-green)
